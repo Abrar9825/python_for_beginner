@@ -1,0 +1,5 @@
+a=set()
+a.add(20)
+a.add("20")
+a.add(20.0)
+print(len(a))
